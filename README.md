@@ -1,4 +1,5 @@
 Electric Vehicle Production Lifecycle & Market Dynamics Analysis (2010–2024) Using Alteryx
+
 📌 Project Overview
 
 This project analyzes electric vehicle (EV) production data to uncover long-term trends in growth, decline, innovation, and model lifecycle behavior across the EV market. Using Alteryx Designer, the analysis focuses on production volatility, model pauses and comebacks, new model introductions, and model extinction patterns between 2010 and 2024.
